@@ -14,8 +14,7 @@
 ### **厚生労働省の職業準備性ピラミッドを見てみましょう。**
 [![Image from Gyazo](https://i.gyazo.com/352b3324ed60bfc8ebc22e8e25160b9f.png)](https://gyazo.com/352b3324ed60bfc8ebc22e8e25160b9f)
 
-出典：[厚生労働省　職業準備声ピラミッド
-](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.mhlw.go.jp/shingi/2006/12/dl/s1226-7c05.pdf)
+出典：[厚生労働省　職業準備性ピラミッド](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.mhlw.go.jp/shingi/2006/12/dl/s1226-7c05.pdf)
 
 
 安定した職業生活を送るためには様々な側面があります。それぞれを完璧にこなさないと就職ができない、安定した職業生活が送れないわけではありませんが、上記の５つのスキルは障がい者が安定して働いて行くためにはとても重要です。
